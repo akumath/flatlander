@@ -1,0 +1,82 @@
+[
+  {
+    "name":"Doce",
+    "price":2.95,
+    "dectription":"Its a precious stone.",
+    "canPurchase":true,
+    "soldOut":false,
+    "image":[{
+      "full":"images/blue-gem.jpg"
+
+    }],
+    "reviews":[{
+      "stars":3,
+      "body":"Doce stone!!!",
+      "author":"ssas@gmail.com"
+    },{
+      "stars":4,
+      "body":"i like this stone!!!",
+      "author":"szzz@gmail.com"
+    }]
+  },
+  {
+    "name":"Pentagon",
+    "price":1,
+    "dectription":"Its a Pentagon stone.",
+    "canPurchase":false,
+    "soldOut":false,
+    "image":[{
+      "full":"images/pent.jpg"
+
+    }],
+    "reviews":[{
+      "stars":5,
+      "body":"This is a cool stone!!!",
+      "author":"shaa@gmail.com"
+    },{
+      "stars":4,
+      "body":"i like this stone!!!",
+      "author":"szzz@gmail.com"
+    }]
+  },
+  {
+    "name":"triangle",
+    "price":3,
+    "dectription":"Its a triangle stone.",
+    "canPurchase":false,
+    "soldOut":false,
+    "image":[{
+      "full":"images/tri.jpg"
+
+    }],
+    "reviews":[{
+      "stars":3,
+      "body":"Traingle stone!!!",
+      "author":"ssas@gmail.com"
+    },{
+      "stars":4,
+      "body":"i like this stone!!!",
+      "author":"szzz@gmail.com"
+    }]
+  },
+  {
+    "name":"square",
+    "price":4.95,
+    "dectription":"Its a square stone.",
+    "canPurchase":false,
+    "soldOut":true,
+    "image":[{
+      "full":"images/sqr.jpg"
+
+    }],
+    "reviews":[{
+      "stars":3,
+      "body":"Traingle stone!!!",
+      "author":"ssas@gmail.com"
+    },{
+      "stars":4,
+      "body":"i like this stone!!!",
+      "author":"szzz@gmail.com"
+    }]
+  }
+]
